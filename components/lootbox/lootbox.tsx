@@ -10,9 +10,9 @@ const PRIZES = [
   { label: "1 Month Free Rent", description: "Your landlord will love this!" },
   { label: "10 Super Likes", description: "Stand out to potential roommates!" },
   { label: "Premium for 1 Week", description: "Unlock all features!" },
-  { label: "3 Boosts", description: "Get seen by more people!" },
+  { label: "4 Scrolls", description: "Use them to see more profiles!" },
   { label: "Free Pizza Night", description: "Bond with your new roommate!" },
-  { label: "50 Scrolls", description: "Scroll to your heart's content!" },
+  { label: "10 Scrolls", description: "Scroll to your heart's content!" },
   { label: "Moving Day Helper", description: "A friend for move-in day!" },
 ]
 
